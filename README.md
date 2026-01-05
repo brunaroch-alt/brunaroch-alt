@@ -1,6 +1,7 @@
 # Olá! Eu sou Bruna Rocha
 
-Desenvolvedora Backend Python | FastAPI • SQL • APIs REST | Estudante de Análise e Desenvolvimento de Sistemas 
+Desenvolvedora Backend Python | FastAPI • SQL • APIs REST | Estudante de Análise e Desenvolvimento de Sistemas
+
 Apaixonada por criar soluções práticas, automatizar processos e aplicar boas práticas de programação.
 
 ## Stack Tecnológico
