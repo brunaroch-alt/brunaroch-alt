@@ -4,6 +4,11 @@ Desenvolvedora Backend Python | FastAPI • SQL • APIs REST | Estudante de An�
 
 Apaixonada por criar soluções práticas, automatizar processos e aplicar boas práticas de programação.
 
+---
+- Foco em desenvolvimento Backend e automação de testes.  
+Estou constantemente aprendendo novas tecnologias e aplicando meus conhecimentos em projetos práticos.
+---
+
 ## Stack Tecnológico
 
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,10 +29,13 @@ Apaixonada por criar soluções práticas, automatizar processos e aplicar boas 
 ## Projetos em Destaque
 
 ### API de Turismo
-[API REST desenvolvida com FastAPI para gerenciamento de informações turísticas.](https://github.com/brunaroch-alt/turismo-api)
+API REST com FastAPI para gerenciamento de informações turísticas, registro de visitas, guias e vendas de produtos. Permite geração de relatórios e cálculo de faturamento.  
+[Repositório](https://github.com/brunaroch-alt/turismo-api)
 
 ### Verificador de Links Quebrados
-[Ferramenta de automação com Selenium para identificar links quebrados em websites.](https://github.com/brunaroch-alt/verificador-links-selenium)
+Ferramenta de automação com Selenium que verifica links quebrados em websites e gera relatórios.  
+[Repositório](https://github.com/brunaroch-alt/verificador-links-selenium)
+
 
 ## Contato
 
